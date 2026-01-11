@@ -36,4 +36,4 @@ An advanced, interactive digital map designed to help both domestic and internat
 Our goal is to boost tourism in Mongolia by providing accessible, accurate, and multilingual geographic information, ensuring every traveler has a safe and unforgettable journey.
 
 ---
-*Created with ❤️ by [Your Name]*
+*Created with ❤️ by [Bayar Choijil]*
