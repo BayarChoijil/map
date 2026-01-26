@@ -1,18 +1,18 @@
-# 🇲🇳 Mongolia Interactive Travel Map (1,400+ Sites)
-**A Comprehensive Digital Guide to Mongolia's Natural Beauty and Hospitality.**
+# 🇲🇳 Mongolia Map Guide: Interactive Travel Platform
+**Your definitive digital companion for exploring the land of the eternal blue sky.**
 
 
 
 ## 🌟 Төслийн тухай / About the Project
-Энэхүү интерактив газрын зураг нь Монгол орны байгалийн үзэсгэлэнт газрууд болон жуулчны баазуудыг нэгтгэсэн цогц мэдээллийн сан юм. Нийт **1,436** гаруй цэгийг багтаасан бөгөөд аялагчдад хайлт хийх, байршлаа тогтооход хялбар болгох зорилготой.
+**Mongolia Map Guide** нь Монгол орны байгаль, түүх, соёлын дурсгалт газрууд болон амралт, жуулчны баазуудыг нэгтгэсэн интерактив мэдээллийн сан юм. Нийт **1,438** объектыг багтаасан бөгөөд олон улсын аялагчдад зориулан 6 хэлний сонголттойгоор бүтээгдсэн.
 
-This interactive map is a comprehensive database of Mongolia's scenic spots and tourist camps. Featuring over **1,436 points of interest**, it is designed to help travelers search, navigate, and explore Mongolia with ease.
+**Mongolia Map Guide** is a comprehensive interactive platform featuring over **1,438** scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.
 
 ---
 
 ## 🌍 Multilingual Support (6 Languages)
-Бид олон улсын аялагчдад зориулан дараах хэлүүдийг дэмжиж байна:
-We support the following languages to assist international travelers:
+Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг:
+We support the following languages to assist global explorers:
 
 - 🇲🇳 **Mongolian** (Монгол)
 - 🇺🇸 **English** (English)
@@ -24,39 +24,23 @@ We support the following languages to assist international travelers:
 ---
 
 ## ✨ Гол онцлогууд / Key Features
-- **Smart Search:** Монгол болон Англи хэлээр ухаалаг хайлт хийх боломжтой. (Bilingual Search Support)
-- **1,400+ POIs:** Байгалийн дурсгалт газрууд, түүхийн өлгий болон жуулчны баазууд. (Natural, Historical sites & Tourist Camps)
-- **Live Location:** Утаснаасаа байршлаа шууд тодорхойлох функц. (Real-time GPS Location tracking)
-- **Google Maps Integration:** Нэг товчлуураар Google Maps-тай холбогдож замаа заах боломжтой.
-- **Multimodal Layers:** Google Satellite, Terrain болон OpenStreetMap сонголтуудтай.
-
----
-
-## 🛠️ Технологийн сан / Tech Stack
-- **Python** (Core Logic)
-- **Folium** (Map Rendering)
-- **Pandas** (Data Processing)
-- **GitHub Pages** (Web Hosting)
+- **Smart Multilingual Search:** Газар нутгийн нэрийг дээрх 6 хэлний алинаар нь ч хайж олох боломжтой.
+- **Detailed POIs:** 1,028 амралт сувилал, 410 байгалийн болон түүхэн газрын мэдээлэл.
+- **One-Click Navigation:** Google Maps-тай шууд холбогдож зам заах функц.
+- **Live Location:** Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж.
 
 ---
 
 ## 🚀 Хэрхэн ашиглах вэ? / How to Use
-1. **Шууд үзэх:** [exploremongolia.github.io/map/](https://exploremongolia.github.io/map/) холбоосоор орно.
-2. **Хайх:** Зүүн дээд буланд байгаа хайлтын цонхонд газар нутгийн нэрээ бичнэ.
-3. **Байршил:** Зүүн талын цэсний "Locate Me" товчийг дарж өөрийн байршлыг харна.
+1. **Вэб хаяг:** [mongoliamapguide.github.io/map/](https://mongoliamapguide.github.io/map/)
+2. **Хайлт:** Зүүн дээд буланд байх хайлтын хэсэгт хүссэн газрынхаа нэрийг бичнэ үү.
+3. **Байршил тогтоох:** Газрын зургийн зүүн талын "Locate Me" товчийг ашиглана уу.
 
 ---
 
-## 📸 Screenshots![622276157_932692262778361_234992776351566359_n](https://github.com/user-attachments/assets/91ae9524-83b3-4b4d-b50f-812c7a5c3aff) 
-![622740700_932692339445020_7946058482202274103_n](https://github.com/user-attachments/assets/e0f5b927-f109-42a8-9176-4cb77ec23f68)
-![619760096_932692306111690_663312353423393765_n](https://github.com/user-attachments/assets/695adf60-1b38-4425-8ebf-7f85aef17163)
+## 🛠️ Технологийн сан / Tech Stack
+- **Python / Folium** (Map rendering)
+- **Pandas** (Data management)
+- **GitHub Pages** (Hosting)
 
-
-
-
-
-
-
----
-
-© 2024 - 2026 Mongolia Travel Map Project.
+© 2024 - 2026 Mongolia Map Guide Project.
