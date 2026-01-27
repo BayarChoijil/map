@@ -24,8 +24,8 @@ We support the following languages to assist global explorers:
 ---
 
 ## ✨ Гол онцлогууд / Key Features
-- **Smart Multilingual Search:** Газар нутгийн нэрийг дээрх 6 хэлний алинаар нь ч хайж олох боломжтой.
-- **Detailed POIs:** 1,028 амралт сувилал, 410 байгалийн болон түүхэн газрын мэдээлэл.
+- **Smart Multilingual Search:** Газар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой.
+- **Detailed POIs:** 1,033 амралт сувилал, 410 байгалийн болон түүхэн газрын мэдээлэл.
 - **One-Click Navigation:** Google Maps-тай шууд холбогдож зам заах функц.
 - **Live Location:** Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж.
 
