@@ -1,1 +1,35 @@
-🇲🇳 Mongolia Map Guide: Interactive Travel PlatformYour definitive digital companion for exploring the Land of the Eternal Blue Sky.🌟 Төслийн тухай / About the ProjectMongolia Map Guide нь Монгол орны байгаль, түүх, соёлын дурсгалт газрууд болон амралт, жуулчны баазуудыг нэгтгэсэн интерактив мэдээллийн сан юм. Нийт 1,484 объектыг багтаасан бөгөөд олон улсын аялагчдад зориулан 6 хэлний сонголттойгоор бүтээгдсэн.Mongolia Map Guide is a comprehensive interactive platform featuring over 1,484 scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.🌍 Multilingual Support (6 Languages)Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг:We support the following languages to assist global explorers:FlagLanguageNative Name🇲🇳MongolianМонгол🇺🇸EnglishEnglish🇰🇷Korean한국어🇯🇵Japanese日本語🇨🇳Chinese中文🇷🇺RussianРусский✨ Гол онцлогууд / Key Features🔍 Smart Multilingual SearchГазар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой.Search for locations effortlessly using both Mongolian and English names.📍 Detailed Points of Interest (POIs)Бидний өгөгдлийн сан дараах мэдээллийг агуулна:1,028 – Амралт сувилал, аялал жуулчлалын баазууд (Resorts and camps)413 – Байгалийн болон түүхэн дурсгалт газрууд (Natural and historical landmarks)43 – Тээврийн зангилаа, нисэх буудал болон хилийн боомтууд (Transport hubs and border crossings)🛰️ Live Location & NavigationOne-Click Navigation: Google Maps-тай шууд холбогдож зам заах функц. (Integrated with Google Maps for instant route planning.)Real-time GPS: Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж. (Real-time GPS tracking to visualize your position in remote areas.)📱 PWA Ready (Offline Mode)Энэхүү систем нь гар утсанд апп хэлбэрээр суух боломжтой бөгөөд сүлжээгүй орчинд ч газрын зургийг харах "Service Worker" технологиор тоноглогдсон.🛠️ Технологийн шийдэл / Tech StackLanguage: Python 3.xLibraries: Folium, Pandas, BrancaWeb Tech: HTML5, CSS3, JavaScript (PWA Integration)Hosting: GitHub Pages🚀 Яг одоо үзэх / View Live Project:[🔗 https://bayarchoijil.github.io/map/]
+🇲🇳 Mongolia Map Guide: Interactive Travel Platform
+Your definitive digital companion for exploring the land of the eternal blue sky.
+
+🌟 Төслийн тухай / About the Project
+Mongolia Map Guide нь Монгол орны байгаль, түүх, соёлын дурсгалт газрууд болон амралт, жуулчны баазуудыг нэгтгэсэн интерактив мэдээллийн сан юм. Нийт 1,484 объектыг багтаасан бөгөөд олон улсын аялагчдад зориулан 6 хэлний сонголттойгоор бүтээгдсэн.
+
+Mongolia Map Guide is a comprehensive interactive platform featuring over 1,484 scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.
+
+🌍 Multilingual Support (6 Languages)
+Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг: We support the following languages to assist global explorers: 🇲🇳 Mongolian (Монгол) | 🇺🇸 English (English) | 🇰🇷 Korean (한국어) | 🇯🇵 Japanese (日本語) | 🇨🇳 Chinese (中文) | 🇷🇺 Russian (Русский)
+
+✨ Гол онцлогууд / Key Features
+Smart Multilingual Search: Газар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой. (Search for locations effortlessly using both Mongolian and English names.)
+
+Detailed POIs: Амралт сувилал, аялал жуулчлалын 1,028, тээвэр болон хилийн боомтын 43, байгалийн болон түүхэн газрын 413 мэдээлэл. (Comprehensive database: 1,028 resorts and camps, 43 transport hubs/border crossings, and 413 natural and historical landmarks.)
+
+One-Click Navigation: Google Maps-тай шууд холбогдож зам заах функц. (Integrated with Google Maps for instant route planning and navigation.)
+
+Live Location: Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж. (Real-time GPS tracking to visualize your current position while exploring remote areas.)
+
+🚀 Хэрхэн ашиглах вэ? / How to Use
+Вэб хаяг / Web Link: mongoliamapguide.github.io/map/
+
+Хайлт / Search: Зүүн дээд буланд байх хайлтын хэсэгт хүссэн газрынхаа нэрийг бичнэ үү. (Enter the destination name in the search bar located at the top-left corner.)
+
+Байршил тогтоох / Positioning: Газрын зургийн зүүн талын "Locate Me" товчийг ашиглана уу. (Use the "Locate Me" button on the left sidebar to find your current coordinates.)
+
+🛠️ Технологийн сан / Tech Stack
+Python / Folium (Map rendering)
+
+Pandas (Data management)
+
+GitHub Pages (Hosting)
+
+© 2024 - 2026 Mongolia Map Guide Project.
