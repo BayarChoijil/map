@@ -1,46 +1,19 @@
-# 🇲🇳 Mongolia Map Guide: Interactive Travel Platform
-**Your definitive digital companion for exploring the land of the eternal blue sky.**
+🇲🇳 Mongolia Map Guide: Interactive Travel Platform
+Your definitive digital companion for exploring the land of the eternal blue sky.
 
+🌟 Төслийн тухай / About the Project
+Mongolia Map Guide нь Монгол орны байгаль, түүх, соёлын дурсгалт газрууд болон амралт, жуулчны баазуудыг нэгтгэсэн интерактив мэдээллийн сан юм. Нийт 1,484 объектыг багтаасан бөгөөд олон улсын аялагчдад зориулан 6 хэлний сонголттойгоор бүтээгдсэн.
 
+Mongolia Map Guide is a comprehensive interactive platform featuring over 1,484 scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.
 
-## 🌟 Төслийн тухай / About the Project
-**Mongolia Map Guide** нь Монгол орны байгаль, түүх, соёлын дурсгалт газрууд болон амралт, жуулчны баазуудыг нэгтгэсэн интерактив мэдээллийн сан юм. Нийт **1,484** объектыг багтаасан бөгөөд олон улсын аялагчдад зориулан 6 хэлний сонголттойгоор бүтээгдсэн.
+🌍 Multilingual Support (6 Languages)
+Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг: We support the following languages to assist global explorers: 🇲🇳 Mongolian (Монгол) | 🇺🇸 English (English) | 🇰🇷 Korean (한국어) | 🇯🇵 Japanese (日本語) | 🇨🇳 Chinese (中文) | 🇷🇺 Russian (Русский)
 
-**Mongolia Map Guide** is a comprehensive interactive platform featuring over **1,484** scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.
+✨ Гол онцлогууд / Key Features
+Smart Multilingual Search: Газар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой. (Search for locations effortlessly using both Mongolian and English names.)
 
----
+Detailed POIs: Амралт сувилал, аялал жуулчлалын 1,028, тээвэр болон хилийн боомтын 43, байгалийн болон түүхэн газрын 413 мэдээлэл. (Comprehensive database: 1,028 resorts and camps, 43 transport hubs/border crossings, and 413 natural and historical landmarks.)
 
-## 🌍 Multilingual Support (6 Languages)
-Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг:
-We support the following languages to assist global explorers:
+One-Click Navigation: Google Maps-тай шууд холбогдож зам заах функц. (Integrated with Google Maps for instant route planning and navigation.)
 
-- 🇲🇳 **Mongolian** (Монгол)
-- 🇺🇸 **English** (English)
-- 🇰🇷 **Korean** (한국어)
-- 🇯🇵 **Japanese** (日本語)
-- 🇨🇳 **Chinese** (中文)
-- 🇷🇺 **Russian** (Русский)
-
----
-
-## ✨ Гол онцлогууд / Key Features
-- **Smart Multilingual Search:** Газар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой.
-- **Detailed POIs:** Амралт сувилал,аялал жуулчлалын 1,028 тээвэр, хилийн боомтын 43,  байгалийн болон түүхэн газрын 413 мэдээлэл.
-- **One-Click Navigation:** Google Maps-тай шууд холбогдож зам заах функц.
-- **Live Location:** Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж.
-
----
-
-## 🚀 Хэрхэн ашиглах вэ? / How to Use
-1. **Вэб хаяг:** [mongoliamapguide.github.io/map/](https://mongoliamapguide.github.io/map/)
-2. **Хайлт:** Зүүн дээд буланд байх хайлтын хэсэгт хүссэн газрынхаа нэрийг бичнэ үү.
-3. **Байршил тогтоох:** Газрын зургийн зүүн талын "Locate Me" товчийг ашиглана уу.
-
----
-
-## 🛠️ Технологийн сан / Tech Stack
-- **Python / Folium** (Map rendering)
-- **Pandas** (Data management)
-- **GitHub Pages** (Hosting)
-
-© 2024 - 2026 Mongolia Map Guide Project.
+Live Location: Хөдөө хээр явахдаа өөрийн байршлыг газрын зураг дээр харах боломж. (Real-time GPS tracking to visualize your current position while exploring remote areas.)
