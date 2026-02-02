@@ -7,7 +7,13 @@ Mongolia Map Guide нь Монгол орны байгаль, түүх, соёл
 Mongolia Map Guide is a comprehensive interactive platform featuring over 1,484 scenic spots, historical sites, and tourist camps across Mongolia. Designed for both domestic and international travelers, it provides seamless navigation in 6 languages.
 
 🌍 Multilingual Support (6 Languages)
-Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг: We support the following languages to assist global explorers: 🇲🇳 Mongolian (Монгол) | 🇺🇸 English (English) | 🇰🇷 Korean (한국어) | 🇯🇵 Japanese (日本語) | 🇨🇳 Chinese (中文) | 🇷🇺 Russian (Русский)
+Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг: We support the following languages to assist global explorers:
+🇲🇳 Mongolian (Монгол) 
+🇺🇸 English (English)  
+🇰🇷 Korean (한국어)  
+🇯🇵 Japanese (日本語)  
+🇨🇳 Chinese (中文)  
+🇷🇺 Russian (Русский)
 
 ✨ Гол онцлогууд / Key Features
 Smart Multilingual Search: Газар нутгийн нэрийг Монгол, Англи хэлээр хайж олох боломжтой. (Search for locations effortlessly using both Mongolian and English names.)
