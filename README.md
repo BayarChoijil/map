@@ -8,6 +8,7 @@ Mongolia Map Guide is a comprehensive interactive platform featuring over 1,484 
 
 🌍 Multilingual Support (6 Languages)
 Бид дэлхийн өнцөг булан бүрээс ирэх жуулчдад зориулж дараах хэлүүдийг дэмждэг: We support the following languages to assist global explorers:
+
 🇲🇳 Mongolian (Монгол) 
 🇺🇸 English (English)  
 🇰🇷 Korean (한국어)  
