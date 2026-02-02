@@ -48,4 +48,4 @@ Web Tech: HTML5, CSS3, JavaScript (PWA Integration)
 Hosting: GitHub Pages
 
 🚀 Яг одоо үзэх / View Live Project:
-[🔗 https://bayarchoijil.github.io/map/]
+[🔗 https://mongoliamapguide.github.io/map/]
